@@ -9,7 +9,7 @@ export function App() {
     <BrowserRouter>
       <header>
         <Link to="/">
-          <h1 className={styles.title}>Discovery Movies</h1>
+          <h1 className={styles.title}>Discovery Films</h1>
         </Link>
       </header>
       <main>
