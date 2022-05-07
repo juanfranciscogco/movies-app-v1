@@ -1,6 +1,6 @@
 import React from "react";
-import { BrowserRouter, Routes, Route, Link, Navigate } from "react-router-dom";
 import styles from "./components/App.module.css";
+import { BrowserRouter, Routes, Route, Link, Navigate } from "react-router-dom";
 import { LandingPage } from "./page/LandingPage";
 import { MovieDetails } from "./page/MovieDetails";
 
